@@ -18,7 +18,7 @@ This digital space hosts my professional design case studies, wireframes, protot
 
 Below is a featured layout representing a key visual iteration of the user interface flow:
 
-![UX UI Portfolio Interface](Images/ux%20Portfolio/Images/1.png)
+![UX UI Portfolio Interface](https://stellular-fenglisu-34b225.netlify.app/)
 
 ---
 
